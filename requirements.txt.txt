@@ -1,0 +1,7 @@
+Flask==3.0.0
+Flask-Cors==4.0.0
+python-pptx==0.6.22
+python-docx==1.1.0
+PyMuPDF==1.23.8
+deep-translator==1.11.4
+gunicorn==21.2.0
